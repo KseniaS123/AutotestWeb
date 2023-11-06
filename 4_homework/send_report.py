@@ -17,7 +17,7 @@ reportname = "log.txt"
 msg = MIMEMultipart()
 msg['From'] = fromaddr
 msg['To'] = toaddr
-msg['Subject'] = "Привет от питона (отчет по тестированию)"
+msg['Subject'] = "Отчет по тестированию"
 
 # Добавляем файл во вложение
 with open(reportname, "rb") as log:

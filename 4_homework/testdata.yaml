@@ -9,13 +9,13 @@ title: 'Test1'
 description: 'Some description for test1'
 content: 'Some content for test1'
 
-username: Taya
-user_email: taya@inbox.ru
+username: Alisa
+user_email: alisa93.93@mail.ru
 content_contact: Some message
 
-fromaddr: taya_send_test@mail.ru
-toaddr: taya_for_test@mail.ru
-fromaddr_passwd: bYyeXsHrbxnGQXysmAWW
+fromaddr: mary_night_song@mail.ru
+toaddr: alisa93.93@mail.ru
+fromaddr_passwd: xxVCQcV1hZrpdyFjgFkp
 
 url_login: https://test-stand.gb.ru/gateway/login
 url_post: https://test-stand.gb.ru/api/posts
